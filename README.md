@@ -1,2 +1,2 @@
 # Bike_Sharing
-Module Practice of Bike_Sharing Analysis vis Tableau
+Module Practice of Bike_Sharing Analysis via Tableau
